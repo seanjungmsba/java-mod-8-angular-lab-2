@@ -1,4 +1,4 @@
-# Lesson Title
+# Angular Lab 2
 
 ## Instructions
 
